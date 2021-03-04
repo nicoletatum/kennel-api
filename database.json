@@ -1,0 +1,130 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Doodle",
+      "breed": "Poodle",
+      "customerId": 4,
+      "locationId": 2
+    },
+    {
+      "id": 2,
+      "name": "Bork",
+      "breed": "Poodle",
+      "customerId": 6,
+      "locationId": 1
+    },
+    {
+      "id": 3,
+      "name": "Bonk",
+      "breed": "Poodle",
+      "customerId": 3,
+      "locationId": 1
+    },
+    {
+      "id": 4,
+      "name": "Poni",
+      "breed": "Poodle",
+      "customerId": 5,
+      "locationId": 1
+    },
+    {
+      "id": 5,
+      "name": "Doodles",
+      "breed": "Poodle",
+      "customerId": 2,
+      "locationId": 2
+    },
+    {
+      "id": 6,
+      "name": "Doodles",
+      "breed": "Poodle",
+      "customerId": 1,
+      "locationId": 1
+    },
+    {
+      "name": "Fido",
+      "breed": "bongo dog",
+      "locationId": 2,
+      "customerId": 3,
+      "id": 7
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Hannah Hall",
+      "address": "7002 Chestnut Ct",
+      "animalId": 5
+    },
+    {
+      "id": 2,
+      "name": "kenny Rogers",
+      "address": "358 BlueGreen St",
+      "animalId": 1
+    },
+    {
+      "id": 3,
+      "name": "Jada Smith",
+      "address": "1539 BlueSprings Rd",
+      "animalId": 3
+    },
+    {
+      "id": 4,
+      "name": "Dave Meade",
+      "address": "790 Sneed Ct",
+      "animalId": 6
+    },
+    {
+      "id": 5,
+      "name": "Billy Jones",
+      "address": "1091 Sunny River Dr",
+      "animalId": 2
+    },
+    {
+      "id": 6,
+      "name": "Cody Blue",
+      "address": "1730 Halloway Dr",
+      "animalId": 4
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Hannah Hall",
+      "locationId": 1
+    },
+    {
+      "id": 2,
+      "name": "Deryl Williams",
+      "locationId": 1
+    },
+    {
+      "id": 3,
+      "name": "Jeni Lee",
+      "locationId": 2
+    },
+    {
+      "id": 4,
+      "name": "Sarah Welsh",
+      "locationId": 2
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "8422 Johnson Pike"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "209 Emory Drive"
+    },
+    {
+      "name": "West Nashville ",
+      "address": "123 Charlotte Pike",
+      "id": 3
+    }
+  ]
+}
